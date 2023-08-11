@@ -1,0 +1,10 @@
+1 200 Chicken Burger
+2 220 Beef Burger
+3 150 Chicken Sandwich
+4 180 Sub-Sandwich
+5 120 Shwarma
+6 200 Pizza
+7 250 Chicken Wings(6 pieces)
+8 150 Chicken Nachos
+9 180 Pasta
+10 160 Chicken Nuggets(10 pieces)

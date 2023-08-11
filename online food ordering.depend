@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1646854147 source:d:\code\online food ordering\main.cpp
+	"restaurant.h"
+
+1646854090 d:\code\online food ordering\restaurant.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<iomanip>
+	<cstdlib>
+	<map>
+
+1646854421 source:d:\code\online food ordering\restaurant.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<iomanip>
+	<cstdlib>
+	<map>
+	"restaurant.h"
+
